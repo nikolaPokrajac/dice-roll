@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dice-roll/static/css/main.f4f5a7f3.chunk.css",
+    "main.js": "/dice-roll/static/js/main.134662c3.chunk.js",
+    "main.js.map": "/dice-roll/static/js/main.134662c3.chunk.js.map",
+    "runtime~main.js": "/dice-roll/static/js/runtime~main.bb3442c3.js",
+    "runtime~main.js.map": "/dice-roll/static/js/runtime~main.bb3442c3.js.map",
+    "static/js/2.2668f2aa.chunk.js": "/dice-roll/static/js/2.2668f2aa.chunk.js",
+    "static/js/2.2668f2aa.chunk.js.map": "/dice-roll/static/js/2.2668f2aa.chunk.js.map",
+    "index.html": "/dice-roll/index.html",
+    "precache-manifest.b5eca36fec69f3bf622d61d7f89313b5.js": "/dice-roll/precache-manifest.b5eca36fec69f3bf622d61d7f89313b5.js",
+    "service-worker.js": "/dice-roll/service-worker.js",
+    "static/css/main.f4f5a7f3.chunk.css.map": "/dice-roll/static/css/main.f4f5a7f3.chunk.css.map"
+  }
+}
