@@ -2,6 +2,8 @@
 
 This project was created with [Create React App](https://github.com/facebook/create-react-app).
 
+Check out [Live Demo](https://nikolapokrajac.github.io/dice-roll/)
+
 ### Getting Started
 
 There are two methods for getting started with this repo.
